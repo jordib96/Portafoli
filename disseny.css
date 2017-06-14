@@ -1,0 +1,95 @@
+body{
+    
+    background-image:url(imatges_index/Fons2.jpg);
+    
+    
+}
+
+
+h1{
+    
+    color: aliceblue;
+    font-family: fantasy;
+ font-size: 70px;
+    position: fixed;
+   margin-top: 0px;
+    padding-left: 150px;
+    
+    
+    
+    
+    
+}
+
+.disseny{
+    
+    text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+
+.disseny img{
+    margin-top: 25px;
+}
+
+#back{
+    
+    
+    top: 300px;
+    left: 200px;
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    cursor:pointer;
+}
+    
+
+img{
+    
+    width: 900px;
+    
+    
+}
+
+#header a {
+  background: #fff url("htmlcssjava/historia.png") no-repeat;
+  display: block;
+  height: 657px;
+  width: 435px;
+  position: fixed;
+left: 700px;
+}
+#header a span {
+  visibility: hidden;
+}
+
+
+
+
+div.img{
+  display:table;
+    margin-left: 275px;
+
+}
+
+div.img span{
+ line-height:normal;
+ font-size:18px;
+ display:table-caption;
+ background-color: aliceblue;
+ color:black;
+ font-style:italic;
+ text-align:center;
+ position:relative;
+ height:0;
+ color: aliceblue;
+}
+div.img span span{
+ background:rgba(0, 0, 0, 0.4);
+ display:block;
+ padding:0px;
+ text-shadow:0 0 15px white;
+}

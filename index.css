@@ -1,0 +1,292 @@
+
+body{
+    
+    background-image: url(imatges_index/Fons.jpg)
+    
+}
+
+
+#titol{
+    
+    position: fixed;
+    width: 500px;
+    top: 100px;
+    left: 750px;
+}
+
+
+h2{
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-top: 850px;
+    padding-left: 800px;
+    color: aliceblue;
+    
+ 
+    
+}
+
+
+h3{
+    
+  font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 0px;
+    padding-left: 700px;
+    color: aliceblue;    
+    
+}
+
+
+
+
+#modelatge {
+  
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  width: 250px;
+    height: 200px;
+    position: fixed;
+    top:250px;
+    left:200px;
+    cursor:pointer;
+}
+#modelatge:hover {
+    background-image:url(imatges_index/Modelatge.png);
+     
+       
+}
+
+
+#iluminacio{
+  
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  width: 250px;
+    height: 200px;
+    position: fixed;
+    top:250px;
+    left:450px;
+    cursor:pointer;
+}
+#iluminacio:hover {
+    background-image:url(imatges_index/iluminacio.png);
+     
+       
+}
+
+
+#photoshop{
+  
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  width: 250px;
+    height: 200px;
+    position: fixed;
+    top:250px;
+    left:700px;
+    cursor:pointer;
+}
+#photoshop:hover {
+    background-image:url(imatges_index/photoshop.jpg);
+     
+       
+}
+
+
+#stopmotion{
+  
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  width: 250px;
+    height: 200px;
+    position: fixed;
+    top:250px;
+    left:950px;
+    cursor:pointer;
+}
+#stopmotion:hover {
+    background-image:url(imatges_index/stopmotion.png);
+     
+       
+}
+
+#html{
+  
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  width: 250px;
+    height: 200px;
+    position: fixed;
+    top:250px;
+    left:1200px;
+    cursor:pointer;
+}
+#html:hover {
+    background-image:url(imatges_index/html,css,java.png);
+     
+       
+}
+
+
+#processing{
+  
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  width: 250px;
+    height: 200px;
+    position: fixed;
+    top:250px;
+    left:1450px;
+    cursor:pointer;
+}
+#processing:hover {
+    background-image:url(imatges_index/processing.png);
+     
+       
+}
+
+
+#unity{
+  
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  width: 250px;
+    height: 200px;
+    position: fixed;
+    top:500px;
+    left:200px;
+    cursor:pointer;
+}
+#unity:hover {
+    background-image:url(imatges_index/unity.png);
+     
+       
+}
+
+
+#animacio{
+  
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  width: 250px;
+    height: 200px;
+    position: fixed;
+    top:500px;
+    left:450px;
+    cursor:pointer;
+}
+#animacio:hover {
+    background-image:url(imatges_index/animacio.png);
+     
+       
+}
+
+
+#illustrator{
+  
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  width: 250px;
+    height: 200px;
+    position: fixed;
+    top:500px;
+    left:700px;
+    cursor:pointer;
+}
+#illustrator:hover {
+    background-image:url(imatges_index/illustrator.png);
+     
+       
+}
+
+
+
+#rigging{
+  
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  width: 250px;
+    height: 200px;
+    position: fixed;
+    top:500px;
+    left:950px;
+    cursor:pointer;
+}
+#rigging:hover {
+    background-image:url(imatges_index/rigging.png);
+     
+       
+}
+
+
+#texturitzacio{
+  
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  width: 250px;
+    height: 200px;
+    position: fixed;
+    top:500px;
+    left:1200px;
+    cursor:pointer;
+}
+#texturitzacio:hover {
+    background-image:url(imatges_index/texturitzacio.png);
+     
+       
+}
+
+#disseny{
+  
+  transition-property: all 1s linear;
+  width: 250px;
+    height: 200px;
+    position: fixed;
+    top:500px;
+    left:1450px;
+    cursor:pointer;
+}
+#disseny:hover {
+    background-image:url(imatges_index/disseny.png);
+     
+       
+}
+
+button {
+  border: 0;
+  background: #0087cc;
+  border-radius: 4px;
+  box-shadow: 0 5px 0 #006599;
+  color: #fff;
+  cursor: pointer;
+  font: inherit;
+  margin: 0;
+  outline: 0;
+  padding: 12px 20px;
+  transition: all .1s linear;
+    position: fixed;
+    top:875px;
+    left:1675px;
+}
+button:active {
+  box-shadow: 0 2px 0 #006599;
+  transform: translateY(3px);
+}
+
+
+
+
+
+
